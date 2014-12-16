@@ -1,3 +1,7 @@
+# Emacs files
+*~
+#~
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Python files
+*.pyc
